@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5abd9062-657a-4835-b109-8229379bb21e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../8 Ball Pool/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8 Ball Pool/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Ball Pool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8 Ball Pool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cUYXi2yOlGSYxbSSdLxXjgwrjS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580466274151" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../8 Ball Pool" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jetbrains.Main" />
+      <module name="Database" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jetbrains.Server" />
+      <module name="Database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jetbrains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5abd9062-657a-4835-b109-8229379bb21e" name="Default Changelist" comment="" />
+      <created>1549163375816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549163375816</updated>
+      <workItem from="1549163380184" duration="596000" />
+      <workItem from="1549166561826" duration="2166000" />
+      <workItem from="1549219656405" duration="533000" />
+      <workItem from="1549369281624" duration="1047000" />
+      <workItem from="1549370364888" duration="2149000" />
+      <workItem from="1549372566624" duration="403000" />
+      <workItem from="1549378683664" duration="2607000" />
+      <workItem from="1549382820668" duration="3484000" />
+      <workItem from="1549418734114" duration="1464000" />
+      <workItem from="1549428194622" duration="1411000" />
+      <workItem from="1549451841771" duration="5482000" />
+      <workItem from="1549479553472" duration="609000" />
+      <workItem from="1549483166445" duration="1220000" />
+      <workItem from="1549525624202" duration="1234000" />
+      <workItem from="1549532501488" duration="1440000" />
+      <workItem from="1549563979443" duration="5030000" />
+      <workItem from="1549619186481" duration="9064000" />
+      <workItem from="1549682199545" duration="798000" />
+      <workItem from="1549688802964" duration="864000" />
+      <workItem from="1549709426231" duration="3798000" />
+      <workItem from="1549785975915" duration="1100000" />
+      <workItem from="1549796378105" duration="813000" />
+      <workItem from="1549798585259" duration="8699000" />
+      <workItem from="1549812746522" duration="2229000" />
+      <workItem from="1549825518179" duration="4708000" />
+      <workItem from="1549899598551" duration="3001000" />
+      <workItem from="1549908344090" duration="3000" />
+      <workItem from="1549908800681" duration="815000" />
+      <workItem from="1549910050812" duration="805000" />
+      <workItem from="1549911652012" duration="382000" />
+      <workItem from="1549952194642" duration="1245000" />
+      <workItem from="1549956333435" duration="1620000" />
+      <workItem from="1549960180940" duration="310000" />
+      <workItem from="1549963307578" duration="749000" />
+      <workItem from="1549967132789" duration="1926000" />
+      <workItem from="1549985034683" duration="5000" />
+      <workItem from="1549998347250" duration="827000" />
+      <workItem from="1550001212460" duration="961000" />
+      <workItem from="1550029037562" duration="1501000" />
+      <workItem from="1550049120525" duration="2668000" />
+      <workItem from="1550080239700" duration="901000" />
+      <workItem from="1550719624538" duration="814000" />
+      <workItem from="1554055421280" duration="607000" />
+      <workItem from="1554672889236" duration="416000" />
+      <workItem from="1555692535238" duration="521000" />
+      <workItem from="1559050804740" duration="614000" />
+      <workItem from="1559137789718" duration="10000" />
+      <workItem from="1559137839585" duration="488000" />
+      <workItem from="1572039616829" duration="125000" />
+      <workItem from="1576418195331" duration="660000" />
+      <workItem from="1580465602430" duration="688000" />
+      <workItem from="1590584685616" duration="977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1537" height="141" key="GridCell.Tab.0.bottom" timestamp="1590585660908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590585660908" />
+    <state width="1537" height="141" key="GridCell.Tab.0.center" timestamp="1590585660908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590585660908" />
+    <state width="1537" height="141" key="GridCell.Tab.0.left" timestamp="1590585660908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590585660908" />
+    <state width="1537" height="141" key="GridCell.Tab.0.right" timestamp="1590585660908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590585660908" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jetbrains/PlayerThread.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jetbrains/PlayerThread.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Database</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

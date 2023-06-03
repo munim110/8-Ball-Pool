@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="8 Ball Pool" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myimage</find>
+      <find>Ball</find>
+      <find>p</find>
+      <find>r</find>
+      <find>position.getX ()</find>
+      <find>position.getY ()</find>
+      <find>(diameter / 2)</find>
+      <find>v</find>
+      <find>event1</find>
+      <find>alterTurn ()</find>
+      <find>potted[i]</find>
+      <find>position</find>
+      <find>getPosition</find>
+      <find>velocity</find>
+      <find>ballType</find>
+      <find>AllBalls</find>
+      <find>group</find>
+      <find>gamebutton</find>
+      <find>cuurent</find>
+      <find>this.</find>
+      <find>socket</find>
+      <find>parent</find>
+      <find>energy</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>img</replace>
+      <replace>SingleBall</replace>
+      <replace>position</replace>
+      <replace>(diameter/2)</replace>
+      <replace>x</replace>
+      <replace>y</replace>
+      <replace>r</replace>
+      <replace>velocity</replace>
+      <replace>event</replace>
+      <replace>potted[thisTurnPottedBalls.get (i).intValue ()]</replace>
+      <replace>ball[ball_num].getPosition</replace>
+      <replace>getPosition()</replace>
+      <replace>ball[ball_num].getVelocity()</replace>
+      <replace>getballType()</replace>
+      <replace>getBallType()</replace>
+      <replace>GameScene</replace>
+      <replace>gameGroup</replace>
+      <replace>textbutton</replace>
+      <replace>current</replace>
+      <replace />
+      <replace>s</replace>
+      <replace>group</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="95" />
+    <option name="y" value="50" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectId" id="1cUZ54Y7TsD8v1Aof029iNUAMkk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559137902350" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\APURBA SAHA\Desktop\8 Ball Pool\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle tasks" flag="false" />
+      <visibility group="Maven goals" flag="false" />
+      <visibility group="Recent projects" flag="false" />
+      <visibility group="Run configurations" flag="false" />
+      <visibility group="npm scripts" flag="false" />
+    </myKeys>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="8 Ball Pool" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-11.0.1\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1545632022289" duration="2592000" />
+      <workItem from="1545644452609" duration="3807000" />
+      <workItem from="1545651493229" duration="465000" />
+      <workItem from="1545652447429" duration="816000" />
+      <workItem from="1545665428644" duration="1169000" />
+      <workItem from="1545671390247" duration="9921000" />
+      <workItem from="1545681689275" duration="298000" />
+      <workItem from="1545715343600" duration="1841000" />
+      <workItem from="1545762095966" duration="1156000" />
+      <workItem from="1545763874909" duration="6580000" />
+      <workItem from="1545820344423" duration="4995000" />
+      <workItem from="1545883609106" duration="1758000" />
+      <workItem from="1545888076297" duration="6103000" />
+      <workItem from="1545905251840" duration="7824000" />
+      <workItem from="1545914496683" duration="1431000" />
+      <workItem from="1545916746808" duration="2912000" />
+      <workItem from="1545926062260" duration="1902000" />
+      <workItem from="1545938367348" duration="733000" />
+      <workItem from="1545984278535" duration="194000" />
+      <workItem from="1546032016702" duration="1499000" />
+      <workItem from="1546062988055" duration="8350000" />
+      <workItem from="1546077471330" duration="10140000" />
+      <workItem from="1546088375038" duration="3566000" />
+      <workItem from="1546106955279" duration="5253000" />
+      <workItem from="1546112992562" duration="2588000" />
+      <workItem from="1546155505816" duration="15636000" />
+      <workItem from="1546176927988" duration="2363000" />
+      <workItem from="1546179701731" duration="343000" />
+      <workItem from="1546183378454" duration="1281000" />
+      <workItem from="1546186408219" duration="42000" />
+      <workItem from="1546186753484" duration="64000" />
+      <workItem from="1546189064769" duration="52000" />
+      <workItem from="1546189687098" duration="1703000" />
+      <workItem from="1546193101395" duration="603000" />
+      <workItem from="1546239312504" duration="12000" />
+      <workItem from="1546239340960" duration="3227000" />
+      <workItem from="1546262592159" duration="826000" />
+      <workItem from="1546273427785" duration="8718000" />
+      <workItem from="1546337087955" duration="382000" />
+      <workItem from="1546413716064" duration="462000" />
+      <workItem from="1546417903691" duration="137000" />
+      <workItem from="1546421131250" duration="11060000" />
+      <workItem from="1546432361596" duration="5385000" />
+      <workItem from="1546442670947" duration="1961000" />
+      <workItem from="1546525628696" duration="528000" />
+      <workItem from="1546530298711" duration="634000" />
+      <workItem from="1546585859307" duration="966000" />
+      <workItem from="1546709902796" duration="268000" />
+      <workItem from="1546792611128" duration="1841000" />
+      <workItem from="1546795657885" duration="543000" />
+      <workItem from="1547040001702" duration="1734000" />
+      <workItem from="1547138236859" duration="27000" />
+      <workItem from="1547304704589" duration="610000" />
+      <workItem from="1547554543085" duration="2685000" />
+      <workItem from="1547564995329" duration="8603000" />
+      <workItem from="1547648208332" duration="5752000" />
+      <workItem from="1547654283080" duration="1968000" />
+      <workItem from="1547742937999" duration="22552000" />
+      <workItem from="1547788332409" duration="9791000" />
+      <workItem from="1547800415708" duration="630000" />
+      <workItem from="1547835636567" duration="1474000" />
+      <workItem from="1547889945746" duration="8455000" />
+      <workItem from="1547910184233" duration="1313000" />
+      <workItem from="1547922570716" duration="7166000" />
+      <workItem from="1547977362741" duration="4602000" />
+      <workItem from="1548138211915" duration="152000" />
+      <workItem from="1548138394651" duration="5091000" />
+      <workItem from="1548152841866" duration="643000" />
+      <workItem from="1548180068554" duration="6098000" />
+      <workItem from="1548212808593" duration="219000" />
+      <workItem from="1548215209394" duration="1304000" />
+      <workItem from="1548226011277" duration="638000" />
+      <workItem from="1548243500046" duration="79000" />
+      <workItem from="1548243639128" duration="4757000" />
+      <workItem from="1548327705205" duration="62000" />
+      <workItem from="1548476811707" duration="838000" />
+      <workItem from="1548479797606" duration="1058000" />
+      <workItem from="1548495248166" duration="693000" />
+      <workItem from="1548512633856" duration="10937000" />
+      <workItem from="1548604436506" duration="646000" />
+      <workItem from="1548607197136" duration="850000" />
+      <workItem from="1548684211452" duration="706000" />
+      <workItem from="1548768831877" duration="2143000" />
+      <workItem from="1548838768543" duration="510000" />
+      <workItem from="1548839309548" duration="101000" />
+      <workItem from="1548841376120" duration="2358000" />
+      <workItem from="1548947317294" duration="3730000" />
+      <workItem from="1548993205558" duration="16602000" />
+      <workItem from="1549045660571" duration="5106000" />
+      <workItem from="1549089401889" duration="129000" />
+      <workItem from="1549089548982" duration="3288000" />
+      <workItem from="1549100240474" duration="3164000" />
+      <workItem from="1549103679056" duration="9015000" />
+      <workItem from="1549124728565" duration="3428000" />
+      <workItem from="1549169585906" duration="629000" />
+      <workItem from="1549184158273" duration="3544000" />
+      <workItem from="1549219041382" duration="1153000" />
+      <workItem from="1549228232931" duration="1405000" />
+      <workItem from="1549311609238" duration="112000" />
+      <workItem from="1549366782152" duration="510000" />
+      <workItem from="1549367363695" duration="958000" />
+      <workItem from="1549368363801" duration="3380000" />
+      <workItem from="1549374883101" duration="6094000" />
+      <workItem from="1549382841213" duration="4563000" />
+      <workItem from="1549418743455" duration="1886000" />
+      <workItem from="1549428232914" duration="1374000" />
+      <workItem from="1549451858354" duration="8119000" />
+      <workItem from="1549479568189" duration="4380000" />
+      <workItem from="1549521740998" duration="4765000" />
+      <workItem from="1549532508475" duration="1411000" />
+      <workItem from="1549564012909" duration="8197000" />
+      <workItem from="1549619225794" duration="10547000" />
+      <workItem from="1549682393169" duration="749000" />
+      <workItem from="1549688822764" duration="849000" />
+      <workItem from="1549709442313" duration="4628000" />
+      <workItem from="1549785990713" duration="1648000" />
+      <workItem from="1549796082498" duration="255000" />
+      <workItem from="1549796594409" duration="1583000" />
+      <workItem from="1549798596621" duration="11499000" />
+      <workItem from="1549812746809" duration="2407000" />
+      <workItem from="1549825808424" duration="4673000" />
+      <workItem from="1549899016220" duration="3740000" />
+      <workItem from="1549908340786" duration="9000" />
+      <workItem from="1549908513053" duration="84000" />
+      <workItem from="1549908831983" duration="782000" />
+      <workItem from="1549909862172" duration="998000" />
+      <workItem from="1549911668186" duration="411000" />
+      <workItem from="1549956346394" duration="1608000" />
+      <workItem from="1549960193644" duration="294000" />
+      <workItem from="1549963323456" duration="1159000" />
+      <workItem from="1549966400522" duration="3309000" />
+      <workItem from="1549998386034" duration="798000" />
+      <workItem from="1550029051882" duration="1413000" />
+      <workItem from="1550719838149" duration="626000" />
+      <workItem from="1554055366924" duration="795000" />
+      <workItem from="1554672906861" duration="390000" />
+      <workItem from="1555692588206" duration="462000" />
+      <workItem from="1559050811274" duration="627000" />
+      <workItem from="1559137825482" duration="497000" />
+      <workItem from="1572039749486" duration="332000" />
+      <workItem from="1576418349848" duration="702000" />
+      <workItem from="1580465692806" duration="629000" />
+      <workItem from="1590584948528" duration="704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590585060166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590585060166" />
+    <state width="1537" height="286" key="GridCell.Tab.0.bottom" timestamp="1590585646097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590585646097" />
+    <state width="1537" height="286" key="GridCell.Tab.0.center" timestamp="1590585646097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590585646097" />
+    <state width="1537" height="286" key="GridCell.Tab.0.left" timestamp="1590585646097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590585646097" />
+    <state width="1537" height="286" key="GridCell.Tab.0.right" timestamp="1590585646097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590585646097" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/SingleBall.java</url>
+          <line>197</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/SingleBall.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/GameScene.java</url>
+          <line>851</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/GameScene.java</url>
+          <line>346</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE CODES/java 2/src/com/jetbrains/WorkerThread.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sample/GameScene.java</url>
+          <line>682</line>
+          <properties class="sample.GameScene" method="showLabel">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sample/GameScene.java</url>
+          <line>425</line>
+          <properties class="sample.GameScene" method="updateSingleBalls">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sample/GameScene.java</url>
+          <line>197</line>
+          <properties class="sample.GameScene" method="reInitialize">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sample/GameScene.java</url>
+          <line>868</line>
+          <properties class="sample.GameScene" method="stopGame">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>8 Ball Pool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>8 Ball Pool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
